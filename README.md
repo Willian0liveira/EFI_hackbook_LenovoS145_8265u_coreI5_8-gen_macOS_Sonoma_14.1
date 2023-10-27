@@ -12,7 +12,7 @@ Não testado
 - AirDrop
 
 
-# EFI baseada na versão do OpenCore 0.0.95 disponibilizada pelo site Olarila.com 
+# EFI baseada na versão do OpenCore 0.9.5 disponibilizada pelo site Olarila.com 
 Créditos para o moderador Mald0n.
 visite o site: https://www.olarila.com/
 
