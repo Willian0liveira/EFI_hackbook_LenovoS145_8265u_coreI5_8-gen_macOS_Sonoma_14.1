@@ -5,9 +5,11 @@ Funcionando:
 - WiFI / Rede
 - Volume
 - Brilho
+- Teclado
+- TrackPad
 - Facetime
 
-Não testado
+Não testado:
 - Bluetooth
 - AirDrop
 
