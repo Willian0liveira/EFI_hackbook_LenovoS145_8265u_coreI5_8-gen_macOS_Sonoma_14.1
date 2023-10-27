@@ -5,9 +5,11 @@ Funcionando:
 - WiFI / Rede
 - Volume
 - Brilho
+- HDMI
 - Teclado
 - TrackPad
 - Facetime
+
 
 Não testado:
 - Bluetooth
